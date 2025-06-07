@@ -9,7 +9,7 @@ A simple and elegant **full-stack web application** to manage student records us
 - ✅ **Bootstrap + Custom CSS** for styling
 
 ---
-#Output
+## 📷 Screenshot
 
 ![Student-app](https://github.com/user-attachments/assets/db8a68ea-48e0-461d-a7ee-81341be8cca1)
 
@@ -93,12 +93,6 @@ npm run dev
 
 ---
 
-## 📷 Screenshot
-
-![Student Manager App](./screenshots/student-manager-ui.png)
-
----
-
 ## 📦 API Endpoints
 
 | Method | Endpoint                    | Description         |
@@ -114,11 +108,6 @@ npm run dev
 
 Contributions are welcome! Feel free to open issues or submit PRs to enhance the app.
 
----
-
-## 📄 License
-
-This project is licensed under the MIT License.
 
 ---
 
